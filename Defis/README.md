@@ -1,4 +1,4 @@
-# Chifoumi et Plus ou moins et  Jeu de la vie  #Poc_1P
+# Chifoumi, Plus ou moins, Jeu de la vie et jeu d'Echec #Poc_1P
 ---
 
 | <a href="https://poc.onepantheon.fr/html/defi.html"><img src="./public/Chifoumi.png" width="200px" /></a> | <a href="https://poc.onepantheon.fr/html/defi.html"><img src="./public/plusoumoins.png" width="200px" /></a> | <a href="https://poc.onepantheon.fr/html/defi.html"><img src="./public/jeudelavie.png" width="200px" /></a> |<a href="https://poc.onepantheon.fr/html/defi.html"><img src="./public/echecdefis.png" width="200px" /></a>
