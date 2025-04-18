@@ -7,9 +7,10 @@
 
 
 Participation au Pantheon du Code proposé par l'association OnePantheon de l'Efrei.
-Un mois, du 1er octobre 2024 au 31 octobre 2024, pour coder différents défis avec différents niveaux de difficultés et différents type d'accomplissement d'un défis.
+Un mois, du 1er octobre 2024 au 31 octobre 2024, pour coder différents défis avec différents niveaux de difficultés et différents types d'accomplissement d'un défis.
 
 # Défis réalisés
+
 Je suis arrivé 3eme avec 7 défis réalisés :
 
 ## InnoSetup et C++
